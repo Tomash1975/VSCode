@@ -1,0 +1,7 @@
+HTML теги - https://www.w3schools.com/html/default.asp
+CSS теги - https://www.w3schools.com/css/default.asp
+Курс HTML - https://www.codecademy.com/courses/learn-html/lessons/intro-to-html/exercises/intro
+Курс HTML русский - https://htmlacademy.ru/courses
+YouTube - александр репета
+GitHub - https://habr.com/ru/articles/541258/
+Emmet (для быстрого написания кода) - https://habr.com/ru/articles/573032/
